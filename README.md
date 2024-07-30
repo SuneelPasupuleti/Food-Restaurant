@@ -24,9 +24,11 @@ Veg Foodie Restaurant is a web application built with React.js to provide users 
 
 1. ![Screenshot 2024-07-30 181026](https://github.com/user-attachments/assets/3130a845-3f20-4a48-9f6b-5a03fcfc96bd)
 
-2. ![Screenshot 2024-07-30 181026](https://github.com/user-attachments/assets/fb642519-8bc0-455f-adae-9ea423a07f81)
+2. ![Screenshot 2024-07-30 181104](https://github.com/user-attachments/assets/49c4d687-f6f1-4bba-b7f7-6384e29bbf2f)
 
-3. ![Screenshot 2024-07-30 181026](https://github.com/user-attachments/assets/8086f432-ff2e-446f-995a-b569e8b895db)
+3. ![Screenshot 2024-07-30 181043](https://github.com/user-attachments/assets/39940e2e-1128-42fc-99ac-d2d6c85afe82)
+
+
 
 
 
