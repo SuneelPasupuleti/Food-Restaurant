@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+# Foodie Restaurant
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
+Veg Foodie Restaurant is a web application built with React.js to provide users with a seamless browsing experience of various vegetarian dishes. The app allows users to explore different cuisines, view detailed dish information, and place orders online.
 
-## Available Scripts
+## Features
+- **Responsive Design**: Optimized for both desktop and mobile devices.
+- **Menu Browsing**: Explore a wide range of vegetarian dishes categorized by cuisine, ingredients, and popularity.
+- **Search and Filter**: Easily find dishes using the search bar and filter options.
+- **Dish Details**: View detailed information about each dish, including ingredients, preparation methods, and nutritional information.
+- **Ordering System**: Simple and intuitive ordering process with cart management.
+- **User Authentication**: Secure login and registration for users to save their favorite dishes and order history.
+- **Admin Dashboard**: Manage dishes, orders, and user information (available to admin users).
 
-In the project directory, you can run:
+## Technologies Used
+- **Frontend**: React.js, React Router, Redux (or Context API for state management), Axios (for API calls)
+- **Styling**: CSS Modules/SASS/Styled-components
+- **Backend**: Node.js, Express (for RESTful APIs)
+- **Database**: MongoDB (for storing user and menu data)
+- **Authentication**: JWT (JSON Web Tokens)
+- **Deployment**: Vercel/Netlify (for frontend), Heroku/DigitalOcean (for backend)
 
-### `npm start`
+## Access it:- https://foodie-boys.netlify.app/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. ![Screenshot 2024-07-30 181026](https://github.com/user-attachments/assets/3130a845-3f20-4a48-9f6b-5a03fcfc96bd)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2. ![Screenshot 2024-07-30 181026](https://github.com/user-attachments/assets/fb642519-8bc0-455f-adae-9ea423a07f81)
 
-### `npm test`
+3. ![Screenshot 2024-07-30 181026](https://github.com/user-attachments/assets/8086f432-ff2e-446f-995a-b569e8b895db)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
